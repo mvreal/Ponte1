@@ -30,6 +30,7 @@
 5. VALERIANO, R. Pontes.  1. ed. São Paulo, Oficina de Textos, 2021.
 6. DEBS, M.K.El. Pontes de Concreto: Com Ênfase na Aplicação de Elementos Pré-Moldados. São Paulo: Editora Oficina de Textos, 2021.
 7. ABNT. NBR 6118:2024. Projeto de Estruturas de Concreto. Terceira edição. Rio de Janeiro: ABNT, 2024. 238 páginas.
+8. ABNT. NBR 6123:2023: Forças devidas ao vento em edificações. Rio de Janeiro, 2023.
 8. ABNT. NBR 7187:2021. Projeto de pontes, viadutos e passarelas de concreto. Terceira edição. Rio de Janeiro: ABNT, 2021. 72 páginas.  
 9. ABNT. NBR 7188:2024. Ações devido ao tráfego de veículos rodoviários e de pedestres em pontes, viadutos e passarelas. Terceira edição. Rio de Janeiro: ABNT, 2024. 14 páginas. 
 10. ARAÚJO, D. L. Projeto de Ponte em Concreto Armado com Duas Longarinas: Atualizado pela ABNT NBR 7187:2021. 3ª edição. Editora UFG, 2022. 
@@ -37,7 +38,7 @@
 
 ## __Aula 01__
 
-### [Capítulo 5 - Mesoestrutura das Pontes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_5-6.ipynb)
+### [Capítulo 5 - Mesoestrutura das Pontes](https://nbviewer.org/github/mvreal/Ponte1/blob/main/Capitulo_5-6.ipynb)
 
-#### [5.6 - Cálculo dos esforços horizontais nos pilares de uma ponte rodoviária de estrado contínuo](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_5-6.ipynb)
+#### [5.6 - Cálculo dos esforços horizontais nos pilares de uma ponte rodoviária de estrado contínuo](https://nbviewer.org/github/mvreal/Ponte1/blob/main/Capitulo_5-6.ipynb)
 
